@@ -1,1 +1,2 @@
-# windows-7-power-poin-edition
+# windows-7-power-point-edition
+#для верной работы нужно установить все программы репозитории
